@@ -30,7 +30,10 @@ figcaption{
   font-family: Georgia;
 }
 
-
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
 
 
 
