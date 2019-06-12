@@ -18,7 +18,27 @@ figcaption{
   color: white;
   text-shadow: 0 2px 3px #000;
 }
-
-#logo{
+#logo {
   background: aqua;
 }
+
+#logo h1 {
+  font-family: cursive;
+}
+
+#logo h2 {
+  font-family: Georgia;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
