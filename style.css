@@ -9,14 +9,14 @@ figcaption{
   line-height: 1.5em;
   font-family: Georgia, "Times New Roman", sefif;*/
   font: normal 0.75/1.5em Georgia, "Times New Roman", sefif;
-  color: #000;
+  color: #777;
   text-align: right;
 }
 
 .milk-text{
   font: bold 2.6em Georgia;
   color: white;
-  text-shadow: 0 2px 
+  text-shadow: 0 2px 3px #000;
 }
 
 #logo{
