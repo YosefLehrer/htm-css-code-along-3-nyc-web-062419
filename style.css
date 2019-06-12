@@ -16,5 +16,9 @@ figcaption{
 .milk-text{
   font: bold 2.6em Georgia;
   color: white;
-  text-shadow: 
+  text-shadow: 0 2px 
+}
+
+#logo{
+  background: aqua;
 }
